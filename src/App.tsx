@@ -1,4 +1,4 @@
-import ShopItemFunc from './components/ShopItemFunc.jsx';
+import ShopItemFunc from './components/ShopItemFunc.tsx';
 import './App.css';
 
 // const item = {
@@ -15,7 +15,7 @@ const item2 ={
   title: 'Плащ мужской',
   description: 'Плащ мужской для прогулок по вечерам',
   descriptionFull: 'Сделано в России под заказ. Хороший выбор для настоящего мужчины',
-  price: 9009,
+  price: 9999,
   currency: '₽ '
 }
 
